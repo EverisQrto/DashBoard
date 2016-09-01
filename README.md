@@ -1,6 +1,6 @@
 # DashBoard
-| Imagenes        |
-| ------------- |
+| Imagenes        | Descripción |
+| ------------- | ------------- |
 | [Imagen 1](https://drive.google.com/file/d/0B6-_dKirJ9IFV2JseWdCdGE5WUU/view?usp=sharing) | Link 1 |
 |![alt text](https://lh4.googleusercontent.com/4m1AtzLlpWMG4VbKkjw33RMSRXGF1al8Bkj9-wS9lbNwzQU46-E24odsZMCu63wPxxNiTf5XSfT7JN8=w1366-h667 "Imagen 1") | PRINCIPAL |
 | ![alt text](https://lh4.googleusercontent.com/29SFEBJ3ua974reWx6R-_nkErWylmfPMkkPm5ClAixVenlFBH71NyV4RZQznQeJ4RqnDVQx9iUIo7jA=w1366-h667 "Imagen 2") | CONSULTA |
